@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import math
 
 def main():
     st.header('Simple Calculator')
